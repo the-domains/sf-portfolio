@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sf-portfolio]]></title>
         <description><![CDATA[sf-portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sf-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 16:52:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 17:04:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sf-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Interface Error | Rabbits #1-10</p>]]></description>
+            <link>https://thegrid.ai/sf-portfolio/eac70283-4b6e-4e8f-a18f-42028447f1d5/index.html</link>
+            <guid isPermaLink="false">eac70283-4b6e-4e8f-a18f-42028447f1d5</guid>
+            <pubDate>Tue, 26 Jan 2016 17:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interface Error | 2015]]></title>
             <description><![CDATA[<article><h1>Interface Error | 2015</h1><p>Interface Error | Rabbits #1-10</p></article>]]></description>
-            <link>undefinedinterface-error-or-2015/index.html</link>
+            <link>https://thegrid.ai/sf-portfolio/interface-error-or-2015/index.html</link>
             <guid isPermaLink="false">39707d3c-9d13-4274-b5b3-e9a1b27f9868</guid>
             <pubDate>Tue, 26 Jan 2016 16:52:35 GMT</pubDate>
         </item>
