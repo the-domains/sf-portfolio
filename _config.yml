@@ -1,0 +1,28 @@
+name: sf-portfolio
+favicon: null
+layout_spectrum: 0.9359224385116249
+typography_spectrum: 0.15242653409950435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.43242941005155444
+  lightness: 0.6316675678826869
+  saturation: 0.31276577594690025
+  rhythmicContrast: 0.22863175929524004
+purpose: []
